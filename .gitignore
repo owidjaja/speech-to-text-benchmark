@@ -1,5 +1,5 @@
 .idea/
 __pycache__/
-res/deepspeech/
-res/LibriSpeech
+picovoice/res/deepspeech/
+picovoice/res/LibriSpeech
 *.json
