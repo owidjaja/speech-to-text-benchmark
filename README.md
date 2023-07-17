@@ -11,6 +11,8 @@
 
 
 ## OpenAI-Whisper
+- [Whisper docs](https://platform.openai.com/docs/guides/speech-to-text)
+- [API docs](https://platform.openai.com/docs/api-reference/audio/create)
 - [Jie Jenn](https://www.youtube.com/watch?v=BkcSJol59Rg)
 
 ## Picovoice
