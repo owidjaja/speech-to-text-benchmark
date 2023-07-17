@@ -61,3 +61,4 @@ urllib3==1.26.16
 websocket-client==1.1.0
 yarl==1.9.2
 zipp==3.16.2
+pydub~=0.25.1
